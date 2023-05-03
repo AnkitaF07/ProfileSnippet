@@ -1,0 +1,30 @@
+Profile Snippet is an app which can be used by multiple stakeholders to get an overall idea about candidate's profile and screening stages.
+Stakeholders can be from HR and from the technical teams
+
+Technologies Used: ChatGPT and Bubble.io
+ChatGPT is used for Profile summarization and feature extraction
+Bubble.io is used in designing and User Interface
+
+Features for a Recruitment team:
+1. RM Team can use this tool to ease their work load
+2. With this tool, the necessary information about candidates like name, contact details, email, total years of experience, technical skills and many other information can be easily extracted from his CV and stored in database. Currently input is expected in plain text format, future enhancement would be to get candidate's CV in any format using file upload option.
+3. Candidate's complete resume can be seen in summarized format
+4. Team can store and then extract details about how the candidate performed in an interview
+5. Team can schedule an interview from the same app 
+6. Record can be maintained about candidates interview results (shortlisted or not)
+6. Based on the skills required, filtration can be done to get details about only specific skills
+7. Team can create and delete records from database, if required (Admin rights)
+
+Other features:
+1. How many CV the RM team has submitted
+2. Overall idea about how many candidates and from which all skills are been available. How many of them are selected/rejected
+
+Future expansion:
+1. File upload option for uploading the candidate's profile
+2. Feedback forms upload option to store feedback in database for future record
+3. Role based access rights
+4. Advance filtration options
+5. Download reports
+6. Including TEAMS link on the interview email
+7. Date and Time selection feature for scheduling interviews
+8. Dashboard view for management team to check weekly/monthly data
